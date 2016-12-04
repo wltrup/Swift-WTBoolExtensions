@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
     WTBoolExtensions adds a method to generate uniformly-distributed pseudo-random boolean values.
                        DESC
 
-  s.homepage         = 'https://github.com/wltrup/WTBoolExtensions'
+  s.homepage         = 'https://github.com/wltrup/Swift-WTBoolExtensions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Wagner Truppel' => 'trupwl@gmail.com' }
-  s.source           = { :git => 'https://github.com/wltrup/WTBoolExtensions.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wltrup/Swift-WTBoolExtensions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
