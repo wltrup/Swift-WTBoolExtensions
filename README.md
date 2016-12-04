@@ -7,7 +7,7 @@
 
 ## What
 
-**WTBoolExtensions** adds a method to generate  uniformly-distributed pseudo-random boolean values:
+**WTBoolExtensions** adds a method to generate uniformly-distributed pseudo-random boolean values:
 
 ```swift
 public static var random: Bool { get }
