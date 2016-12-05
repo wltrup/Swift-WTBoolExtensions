@@ -18,7 +18,7 @@ class WTBoolExtensionsTests: XCTestCase
     /// that approximately half of the generated booleans are `true`.
     func test_random()
     {
-        let N = 100_000
+        let N = 10_000
         let tolerance = Double(1e-2)
 
         let countOfTrueValues = (1...N)
