@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WTBoolExtensions'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'WTBoolExtensions adds a method to generate pseudo-random boolean values.'
   s.description      = <<-DESC
     WTBoolExtensions adds a method to generate uniformly-distributed pseudo-random boolean values.
