@@ -19,7 +19,7 @@ class WTBoolExtensionsTests: XCTestCase
     func test_random()
     {
         let N = 10_000
-        let tolerance = Double(1e-2)
+        let tolerance = Double(1e-1)
 
         let countOfTrueValues = (1...N)
             .map { _ in Bool.random }
