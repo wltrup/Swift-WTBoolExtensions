@@ -17,6 +17,11 @@ public static var random: Bool { get }
 
 **WTBoolExtensions** adds 1 extension, fully tested by 1 test with 100% coverage.
 
+## Changelog
+
+Changes to **WTBoolExtensions** are listed
+[here](https://github.com/wltrup/Swift-WTBoolExtensions/blob/master/CHANGELOG.md).
+
 ## Installation
 
 **WTBoolExtensions** is available through [CocoaPods](http://cocoapods.org). To install
