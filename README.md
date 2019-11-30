@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/WTBoolExtensions.svg?style=flat)](http://cocoapods.org/pods/WTBoolExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/WTBoolExtensions.svg?style=flat)](http://cocoapods.org/pods/WTBoolExtensions)
 
+## IMPORTANT
+2019.11.30: This project has been **deprecated** since the Swift Standard Library now has precisely the functionality that this library provides.
+
 ## What
 
 **WTBoolExtensions** adds a method to generate uniformly-distributed pseudo-random boolean values:
